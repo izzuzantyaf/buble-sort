@@ -35,7 +35,7 @@ int main()
 	// input jumlah data dari user
 	cout << "Masukkan jumlah data yang anda inginkan : "; cin >> n;
 
-	// deklarasi array dengan jumlah elemen sebanyak yang user inginkan
+	// mendefiniskan jumlah elemen array data[] sebanyak yang user inginkan
 	data[n];
 
 	// input nilai-nilai yang akan diurutkan/disorting
