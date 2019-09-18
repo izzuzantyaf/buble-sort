@@ -45,7 +45,7 @@ int main()
 		cout << "Data ke-" << i + 1 << ": "; cin >> data[i];
 	}
 
-	// pengurutan data yang telah user inputkan
+	// memanggil fungsi pengurutan dengan parameter array data[] dan banyak data (jumlah elemen)
 	bubbleSort(data, n);
 
 	// menampilkan data setelah diurutkan
